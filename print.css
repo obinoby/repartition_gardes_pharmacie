@@ -1,0 +1,56 @@
+* {
+	font-size: 8pt ;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+
+#titre {
+	font-size: 24pt ;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+table.content {
+	page-break-after:always ;
+}
+
+table.calendar {
+	border: 1pt solid #BBC ;
+	background-color: #EAEAEF;
+	font-size: 8pt ;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #0055BB;
+}
+
+table.cartouche {
+	border: 1pt solid #BBC ;
+	background-color: #EAEAEF;
+	font-size: 8pt ;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #0055BB;
+}
+
+td.cartouche {
+	border: 1pt solid #BBC ;
+	background-color: #EAEAEF;
+	font-size: 8pt ;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #0055BB;
+}
+
+
+#calendar {
+	float:left;
+	margin: 8pt;
+}
+
+#cartouche {
+	position:relative;
+	margin: 8pt;
+	padding: 2pt;
+}
+
+#content {
+	position:relative;
+	border: 1pt solid #BBC ;
+	margin: 8pt;
+}
